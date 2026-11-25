@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+out/
+data/samples/*.png
+data/labels/*.json
+.env
+.DS_Store
